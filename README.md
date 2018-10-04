@@ -1,4 +1,4 @@
-# grocery-planner
+# Grocery Planner
 
 ## Start guide
 
@@ -8,3 +8,6 @@ In order to understand the convention about naming, folder structures and so on.
 
 ### Quickstart
 - https://angular.io/guide/quickstart
+
+
+## Database Schema Diagram
