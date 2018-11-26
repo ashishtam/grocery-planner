@@ -1,6 +1,32 @@
 # GroceryPlanner
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
+This project was generated with [Angular CLI]
+
+## Version
+```
+Angular CLI: 7.1.0
+Node: 9.5.0
+OS: darwin x64
+Angular: 7.1.0
+... animations, cdk, cli, common, compiler, compiler-cli, core
+... forms, http, language-service, material, platform-browser
+... platform-browser-dynamic, router
+
+Package                           Version
+-----------------------------------------------------------
+@angular-devkit/architect         0.11.0
+@angular-devkit/build-angular     0.11.0
+@angular-devkit/build-optimizer   0.11.0
+@angular-devkit/build-webpack     0.11.0
+@angular-devkit/core              7.1.0
+@angular-devkit/schematics        7.1.0
+@ngtools/webpack                  7.1.0
+@schematics/angular               7.1.0
+@schematics/update                0.11.0
+rxjs                              6.3.3
+typescript                        3.1.6
+webpack                           4.23.1
+```
 
 ## Development server
 
